@@ -1,6 +1,7 @@
 Replication Code for: "Optimal longevity of a dynasty"
 ======================================================
 Authors: Satoshi Nakano and Kazuhiko Nishimura
+
 Journal: Homo Oeconomicus
 
 Description:
